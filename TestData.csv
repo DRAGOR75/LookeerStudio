@@ -1,0 +1,11 @@
+Transaction ID,Product Category,Region,Units Sold,Revenue
+TID001,Electronics,North,5,1250.00
+TID002,Apparel,South,12,300.50
+TID003,Home Goods,East,8,650.99
+TID004,Electronics,West,2,450.00
+TID005,Apparel,North,25,500.25
+TID006,Home Goods,South,15,1100.00
+TID007,Electronics,East,1,250.00
+TID008,Apparel,West,40,800.00
+TID009,Home Goods,North,10,750.50
+TID010,Electronics,South,7,1500.00
